@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @netpawn
-- 👀 I’m interested in CyberSecurity, Blue Team, networking and social engineering
-- 🌱 I’m currently learning more and more about security, and how to make better
+- 👀 I’m interested in CyberSecurity. Security operations, threat intelligence, blue team, networking, and social engineering.
+- 🌱 I’m currently working with SIEMS and learning about OSINT and its applications. 
 - 📫 If you want to reach me: netpawn@proton.me
 - Here's a joke for you: 
   <div>

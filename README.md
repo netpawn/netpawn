@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @netpawn
-- 👀 I’m interested in CyberSecurity. Security operations, threat intelligence, blue team, networking, and social engineering.
+- 👋 Hi, I’m @netpawn. Just an italian man who loves pizza, pasta and hacking.
+- 👀 I’m interested in Cybersecurity: digital forensics, threat hunting and threat intelligence, blue team operations, networking, and social engineering.
 - 🌱 I’m currently working with SIEMS and learning about OSINT and its applications. 
 - 📫 If you want to reach me: netpawn@proton.me
 - Here's a joke for you: 
